@@ -1,0 +1,8 @@
+build/
+install/
+log/
+devel/
+__pycache__/
+*.py[cod]
+.env
+.idea/
